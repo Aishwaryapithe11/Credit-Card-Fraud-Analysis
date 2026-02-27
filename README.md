@@ -5,7 +5,7 @@ This project analyzes credit card transactions to identify fraudulent activities
 
 ## Tools Used
 - Excel
-- SQL
+- Power BI
 
 ## Key Analysis
 - Fraud detection
