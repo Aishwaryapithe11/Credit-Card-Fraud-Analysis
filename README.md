@@ -13,4 +13,4 @@ This project analyzes credit card transactions to identify fraudulent activities
 - Risk identification
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot%20(195).png)
